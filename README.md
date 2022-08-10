@@ -1,4 +1,4 @@
-# awesome-causality-algorithms [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-satellite-derived-bathymetry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An index of algorithms in
 - machine learning for causal inference: solves causal inference problems
