@@ -28,7 +28,7 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
 ## Bathymetry Papers
 |Name|Paper|Code|
 |---|---|---|
-|Liu et al. 2021|Liu, Y., Zhao, J., Deng, R., Liang, Y., Gao, Y., Chen, Q., Xiong, L., Liu, Y., Tang, Y. and Tang, D., 2021. A downscaled bathymetric mapping approach combining multitemporal Landsat-8 and high spatial resolution imagery: Demonstrations from clear to turbid waters. ISPRS Journal of Photogrammetry and Remote Sensing, 180, pp.65-81.|Satellites GaoFen-1, GaoFen-2, ZiYuan-3, Worldview-2|
+|Liu et al. 2021|Liu, Y., Zhao, J., Deng, R., Liang, Y., Gao, Y., Chen, Q., Xiong, L., Liu, Y., Tang, Y. and Tang, D., 2021. A downscaled bathymetric mapping approach combining multitemporal Landsat-8 and high spatial resolution imagery: Demonstrations from clear to turbid waters. ISPRS Journal of Photogrammetry and Remote Sensing, 180, pp.65-81.|Satellites: GaoFen-1, GaoFen-2, ZiYuan-3, Worldview-2|
 |Quilleuc et al. 2021|Le Quilleuc, A., Collin, A., Jasinski, M.F. and Devillers, R., 2021. Very high-resolution satellite-derived bathymetry and habitat mapping using pleiades-1 and ICESat-2. Remote Sensing, 14(1), p.133.|Icesat-2 data download link important from this paper|
 |Thomas et al. 2021|Thomas, N., Pertiwi, A.P., Traganos, D., Lagomasino, D., Poursanidis, D., Moreno, S. and Fatoyinbo, L., 2021. Space‐borne cloud‐native satellite‐derived bathymetry (SDB) models using ICESat‐2 And Sentinel‐2. Geophysical Research Letters, 48(6), p.e2020GL092170.||
 |Babbel et al. 2021|Babbel, B.J., Parrish, C.E. and Magruder, L.A., 2021. ICESat‐2 elevation retrievals in support of satellite‐derived bathymetry for global science applications. Geophysical Research Letters, 48(5), p.e2020GL090629.||
