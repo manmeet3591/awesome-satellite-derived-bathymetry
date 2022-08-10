@@ -26,7 +26,7 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
 - [Bathymetry Papers](#papers)
 
 ## Bathymetry Papers
-|Name|Paper|Code|
+|Name|Paper|Notes|
 |---|---|---|
 |Liu et al. 2021|Liu, Y., Zhao, J., Deng, R., Liang, Y., Gao, Y., Chen, Q., Xiong, L., Liu, Y., Tang, Y. and Tang, D., 2021. A downscaled bathymetric mapping approach combining multitemporal Landsat-8 and high spatial resolution imagery: Demonstrations from clear to turbid waters. ISPRS Journal of Photogrammetry and Remote Sensing, 180, pp.65-81.|Satellites: GaoFen-1, GaoFen-2, ZiYuan-3, Worldview-2|
 |Danesh-Yazdi et al. 2021|Danesh-Yazdi, M., Bayati, M., Tajrishy, M. and Chehrenegar, B., 2021. Revisiting bathymetry dynamics in Lake Urmia using extensive field data and high-resolution satellite imagery. Journal of Hydrology, 603, p.126987.|Satellites: Landsat-8|
