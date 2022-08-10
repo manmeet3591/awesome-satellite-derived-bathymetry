@@ -23,6 +23,16 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
 -->
 # Table of Contents
 
+- [Papers](#papers)
+
+## Papers
+|Name|Paper|Code|
+|---|---|---|
+|Trustworthy AI|This repository aims to include trustworthy AI related projects from Huawei Noah's Ark Lab. Current projects include:Causal Structure Learning, Causal Disentangled Representation Learning, gCastle (or pyCastle, pCastle).|[Python](https://github.com/huawei-noah/trustworthyAI)|
+|[YLearn](https://ylearn.readthedocs.io/en/latest/)|YLearn, a pun of “learn why”, is a python package for causal learning which supports various aspects of causal inference ranging from causal discovery，causal effect identification, causal effect estimation, counterfactual inference，policy learning，etc.|[Python](https://github.com/DataCanvasIO/YLearn)|
+
+
+<!---
 - [Toolboxes](#toolboxes)
 - [Causal Effect Estimation](#causal-effect-estimation)
 - [Causal Machine Learning](#causal-machine-learning)
@@ -378,3 +388,5 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
 |Name|Paper|Code|
 |---|---|---|
 |TCDF: Temporal Causal Discovery Framework|[Nauta, Meike, Doina Bucur, and Christin Seifert. "Causal discovery with attention-based convolutional neural networks." Machine Learning and Knowledge Extraction.](https://www.mdpi.com/2504-4990/1/1/19)|[Pytorch](https://github.com/M-Nauta/TCDF)|
+
+-->
