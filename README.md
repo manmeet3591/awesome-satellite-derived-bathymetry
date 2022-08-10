@@ -4,6 +4,7 @@ An index of algorithms in
 - machine learning for causal inference: solves causal inference problems
 - causal machine learning: solves ML problems
 
+<!---
 **Reproducibility is important!** We will remove those methods without open-source code unless it is a survey/review paper.
 
 Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index is helpful.
@@ -19,7 +20,7 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
   publisher={ACM New York, NY, USA}
 }
 ```
-
+-->
 # Table of Contents
 
 - [Toolboxes](#toolboxes)
