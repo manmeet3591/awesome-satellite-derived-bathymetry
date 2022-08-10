@@ -38,7 +38,7 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
 |Ma et al. 2020|Ma, Y., Xu, N., Liu, Z., Yang, B., Yang, F., Wang, X.H. and Li, S., 2020. Satellite-derived bathymetry using the ICESat-2 lidar and Sentinel-2 imagery datasets. Remote Sensing of Environment, 250, p.112047.|[Python](https://github.com/manmeet3591/sdb_thailand)|
 |Geyman et al. 2019|Geyman, E.C. and Maloof, A.C., 2019. A simple method for extracting water depth from multispectral satellite imagery in regions of variable bottom type. Earth and Space Science, 6(3), pp.527-537.||
 |Getirana et al 2018|Getirana, A., Jung, H.C. and Tseng, K.H., 2018. Deriving three dimensional reservoir bathymetry from multi-satellite datasets. Remote sensing of environment, 217, pp.366-374.||
-|Wiehle et al 2018|Wiehle, S. and Pleskachevsky, A., 2018, June. Bathymetry derived from sentinel-1 synthetic aperture radar data. In EUSAR 2018; 12th European Conference on Synthetic Aperture Radar (pp. 1-4). VDE.||
+|Wiehle et al 2018|Wiehle, S. and Pleskachevsky, A., 2018, June. Bathymetry derived from sentinel-1 synthetic aperture radar data. In EUSAR 2018; 12th European Conference on Synthetic Aperture Radar (pp. 1-4). VDE.|Sentinel-1 Synthetic aperture radar|
 
 
 ## Icesat-2 Papers
