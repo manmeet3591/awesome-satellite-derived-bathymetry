@@ -1,8 +1,8 @@
 # awesome-satellite-derived-bathymetry [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An index of algorithms in
-- machine learning for causal inference: solves causal inference problems
-- causal machine learning: solves ML problems
+- Satellite Derived Bathymetry
+<!--- - causal machine learning: solves ML problems ---!>
 
 <!---
 **Reproducibility is important!** We will remove those methods without open-source code unless it is a survey/review paper.
